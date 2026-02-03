@@ -5,5 +5,6 @@
 ## Categories
 - Mathematics
 - Programming
+  - Algorithm
 - CS
 - AI
