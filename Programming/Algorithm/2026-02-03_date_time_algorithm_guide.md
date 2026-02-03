@@ -55,7 +55,7 @@ def ordinal(m, d):
 ```python
 day_diff = ordinal(m2, d2) - ordinal(m1, d1)
 ```
-
+---
 ## 4. 요일 문제의 정석: 차이 + 모듈러
 요일 리스트를 이렇게 두면:
 ```python
